@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Discount App</string>
+    <string name="amount_name">Enter the amount</string>
+    <string name="discount_percent">Enter the discount percentage</string>
+    <string name="submit">Submit</string>
+    <string name="res"></string>
+</resources>
